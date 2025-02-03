@@ -1,1 +1,3 @@
 # E-Commerce-project
+
+A Mini E-Commerce Project built using React.js and CSS is a simple yet functional online shopping platform. It features a home page displaying products, a product details page, and a cart system for adding and removing items. React useState and useEffect manage state and API calls, while React Router enables navigation. The UI is styled using CSS for a clean and responsive design. Users can browse products, add them to the cart, and view total pricing dynamically. This project is ideal for beginners to practice React fundamentals, component-based architecture, and state management in a real-world scenario. 
